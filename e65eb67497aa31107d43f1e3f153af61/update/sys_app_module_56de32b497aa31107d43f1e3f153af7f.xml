@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="GITLAB">d2de32b497aa31107d43f1e3f153af7c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Action</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 12:42:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56de32b497aa31107d43f1e3f153af7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GITLAB" source="x_1166649_gitlab">e65eb67497aa31107d43f1e3f153af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GITLAB">e65eb67497aa31107d43f1e3f153af61</sys_scope>
+        <sys_update_name>sys_app_module_56de32b497aa31107d43f1e3f153af7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 12:42:46</sys_updated_on>
+        <timeline_page/>
+        <title>Action</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
